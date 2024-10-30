@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.4   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![WhatsApp Image 2024-10-10 at 16 07 41_9c749a30](https://github.com/user-attachments/assets/31b5b7ea-d523-4225-aa7d-404586d09b13)
 
 ### Output:
+![output](https://github.com/user-attachments/assets/27d99338-2d2c-4159-8f24-c177835173dd)
 
-
-### Name:
-### Register Number:
+### Name: Bharath Raj P
+### Register Number: 212223230031
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
